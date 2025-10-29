@@ -1,0 +1,135 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void GameController_Start_mD0C79B8B5B5D8EDC88F7F2F88B5954B1342198EF (void);
+extern void GameController_ActualizaUI_m1D1CCF092D37544FFC4EDE94EF5B67CA1A747F2E (void);
+extern void GameController_OnTargetFound_m636386392897DC7EBFACF3676486DBBE621DD8F8 (void);
+extern void GameController_generaSiguienteTarget_m13ED324601DEA874864C6145E49448948C70CD16 (void);
+extern void GameController_GameOver_m79F2AC84C02E922C0A041133D6CF029886353C66 (void);
+extern void GameController__ctor_mB6369F6C5357D5984325D613D589EDA60818CBE9 (void);
+extern void ImageTargetHandler_Start_m7007058C70B1EE337B3CAF938C58C519104A13A6 (void);
+extern void ImageTargetHandler_OnTargetStatusChanged_m2E63FFCC0ECA0A61D041565519952DFD9FBE7373 (void);
+extern void ImageTargetHandler__ctor_m5A4A7FC125ED90A209E4F9A31C691B103EAA23A0 (void);
+extern void Transiciones_Awake_m35F4C82BDAA804DE2AD919931262E1858B34407D (void);
+extern void Transiciones_Start_mF1FDA43753BFD78D380508EF6C91D6B705B5A21F (void);
+extern void Transiciones_CambiarEscena_m037D9615E9B3222423C62EDBD66F1F7BC9B28DB4 (void);
+extern void Transiciones_TransicionEntrar_m515F53CD3B5C705B69F513C2A3F8E5EC76F32A88 (void);
+extern void Transiciones_TransicionSalir_m6C4A5374FA2C3BF76EE176D567EBA8CD30DD04B2 (void);
+extern void Transiciones__ctor_m26AA09821FE5BBCC42A55F124C126AF33ABF5828 (void);
+extern void U3CTransicionEntrarU3Ed__6__ctor_mE84DC1FBCECAE6C157D2FF908DB9E4FEF9E5A276 (void);
+extern void U3CTransicionEntrarU3Ed__6_System_IDisposable_Dispose_m365D61F57D45566309391DA2FF242E0E8D1EC6A4 (void);
+extern void U3CTransicionEntrarU3Ed__6_MoveNext_m15EB8F5241D687C617A9718712B4D3E488CF0FE1 (void);
+extern void U3CTransicionEntrarU3Ed__6_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA512DB895446C3356B0E5AD6B07278D742E33980 (void);
+extern void U3CTransicionEntrarU3Ed__6_System_Collections_IEnumerator_Reset_m33DF139AAC371C71F9047F62BD19B641F01E01FD (void);
+extern void U3CTransicionEntrarU3Ed__6_System_Collections_IEnumerator_get_Current_m454C824C4D09F26FAAFCC59EF5C2AFDC7E134A52 (void);
+extern void U3CTransicionSalirU3Ed__7__ctor_m424CF66521F92F3B1F28610052162F38657921AF (void);
+extern void U3CTransicionSalirU3Ed__7_System_IDisposable_Dispose_m4C7BB76DEC08B46EFD3FFB833C165418EC4A8430 (void);
+extern void U3CTransicionSalirU3Ed__7_MoveNext_mA2168FB20360882EB4CE6115004C97E8E71DD0ED (void);
+extern void U3CTransicionSalirU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mF9DF3BB21AE0BEDA2DB15883514AEC742FA5CD25 (void);
+extern void U3CTransicionSalirU3Ed__7_System_Collections_IEnumerator_Reset_mD9B7EDDC5284ECC76ACC63824F93B7A23648EF4F (void);
+extern void U3CTransicionSalirU3Ed__7_System_Collections_IEnumerator_get_Current_m3365C402BDA0500F7E19C83EA653AE69C1C3F99F (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4 (void);
+extern void VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[33] = 
+{
+	GameController_Start_mD0C79B8B5B5D8EDC88F7F2F88B5954B1342198EF,
+	GameController_ActualizaUI_m1D1CCF092D37544FFC4EDE94EF5B67CA1A747F2E,
+	GameController_OnTargetFound_m636386392897DC7EBFACF3676486DBBE621DD8F8,
+	GameController_generaSiguienteTarget_m13ED324601DEA874864C6145E49448948C70CD16,
+	GameController_GameOver_m79F2AC84C02E922C0A041133D6CF029886353C66,
+	GameController__ctor_mB6369F6C5357D5984325D613D589EDA60818CBE9,
+	ImageTargetHandler_Start_m7007058C70B1EE337B3CAF938C58C519104A13A6,
+	ImageTargetHandler_OnTargetStatusChanged_m2E63FFCC0ECA0A61D041565519952DFD9FBE7373,
+	ImageTargetHandler__ctor_m5A4A7FC125ED90A209E4F9A31C691B103EAA23A0,
+	Transiciones_Awake_m35F4C82BDAA804DE2AD919931262E1858B34407D,
+	Transiciones_Start_mF1FDA43753BFD78D380508EF6C91D6B705B5A21F,
+	Transiciones_CambiarEscena_m037D9615E9B3222423C62EDBD66F1F7BC9B28DB4,
+	Transiciones_TransicionEntrar_m515F53CD3B5C705B69F513C2A3F8E5EC76F32A88,
+	Transiciones_TransicionSalir_m6C4A5374FA2C3BF76EE176D567EBA8CD30DD04B2,
+	Transiciones__ctor_m26AA09821FE5BBCC42A55F124C126AF33ABF5828,
+	U3CTransicionEntrarU3Ed__6__ctor_mE84DC1FBCECAE6C157D2FF908DB9E4FEF9E5A276,
+	U3CTransicionEntrarU3Ed__6_System_IDisposable_Dispose_m365D61F57D45566309391DA2FF242E0E8D1EC6A4,
+	U3CTransicionEntrarU3Ed__6_MoveNext_m15EB8F5241D687C617A9718712B4D3E488CF0FE1,
+	U3CTransicionEntrarU3Ed__6_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA512DB895446C3356B0E5AD6B07278D742E33980,
+	U3CTransicionEntrarU3Ed__6_System_Collections_IEnumerator_Reset_m33DF139AAC371C71F9047F62BD19B641F01E01FD,
+	U3CTransicionEntrarU3Ed__6_System_Collections_IEnumerator_get_Current_m454C824C4D09F26FAAFCC59EF5C2AFDC7E134A52,
+	U3CTransicionSalirU3Ed__7__ctor_m424CF66521F92F3B1F28610052162F38657921AF,
+	U3CTransicionSalirU3Ed__7_System_IDisposable_Dispose_m4C7BB76DEC08B46EFD3FFB833C165418EC4A8430,
+	U3CTransicionSalirU3Ed__7_MoveNext_mA2168FB20360882EB4CE6115004C97E8E71DD0ED,
+	U3CTransicionSalirU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mF9DF3BB21AE0BEDA2DB15883514AEC742FA5CD25,
+	U3CTransicionSalirU3Ed__7_System_Collections_IEnumerator_Reset_mD9B7EDDC5284ECC76ACC63824F93B7A23648EF4F,
+	U3CTransicionSalirU3Ed__7_System_Collections_IEnumerator_get_Current_m3365C402BDA0500F7E19C83EA653AE69C1C3F99F,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4,
+	VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[33] = 
+{
+	17133,
+	17133,
+	13047,
+	17133,
+	17133,
+	17133,
+	17133,
+	6680,
+	17133,
+	17133,
+	17133,
+	13047,
+	16916,
+	11233,
+	17133,
+	12983,
+	17133,
+	16715,
+	16916,
+	17133,
+	16916,
+	12983,
+	17133,
+	16715,
+	16916,
+	17133,
+	16916,
+	17133,
+	17133,
+	28727,
+	17133,
+	28868,
+	17133,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	33,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
